@@ -1,0 +1,13 @@
+<h1> Edit User </h1>
+
+<%= form_for @user do |f| %>
+   <label> firstname </label>
+   <%= f.text_field :first_name, class: "form-control" %>
+   <label> lastname </label>
+   <%= f.text_field :last_name, class: "form-control" %>
+   <label> email </label>
+   <%= f.text_field :email, class: "form-control" %>
+   <label> phone </label>
+   <%= f.text_field :phone, class: "form-control" %>
+   <button type="submit"> edit user</button>
+<% end %>
