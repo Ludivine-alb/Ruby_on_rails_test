@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# This repo is a technical test in ruby on rails for En voiture Simone.
 
-Things you may want to cover:
+# Call API User
+# In this second exercise, we judge your quality to provide APIs.
+# You will have to fill in the methods index, show, create, update and destroy.
+# We provide you with the Users controller which contains several methods and the
+# interface of the model.
+# We assume that this API is public, so no authentication is needed.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
